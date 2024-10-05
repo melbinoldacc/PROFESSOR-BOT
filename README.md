@@ -36,7 +36,7 @@
 - [x] Url Shortner In Autofilter
 - [x] Custom Button Lock
 - [x] Image Editor & Background Remover
-- [x] Telegraph, Pin, Json, Password Generator
+- [x] Pin, Json, Password Generator
 - [x] Ban, Mute, Unmute, Etc... Group Manager
 - [x] Custom Welcome Message
 - [x] Advanced Admin Panel
@@ -133,6 +133,6 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+Licensed under [GNU AGPL 3.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*. (its external alert)
 
